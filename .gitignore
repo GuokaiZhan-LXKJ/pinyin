@@ -1,0 +1,10 @@
+/lib
+/debug
+/release
+/.qtc_clangd
+
+*.pro.user
+Makefile
+Makefile.Debug
+Makefile.Release
+.qmake.stash
